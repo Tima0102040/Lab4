@@ -1,0 +1,16 @@
+INTERFACE
+Name: Ukranafta
+Location: Ukraine
+Activity: Production
+Product: Gasoline
+Profit: 102000$
+Worker: 46
+-------------------------
+ABSTRACTION
+Name: Danone
+Location: USA
+Activity: {roduction
+Product: Production
+Profit: 28147200$
+Worker: 117089
+-------------------------
